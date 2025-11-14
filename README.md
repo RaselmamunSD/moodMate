@@ -1,18 +1,18 @@
 
- Technology Stack
+ "Technology Stack"
 
 This scaffold provides a robust foundation built with:
 
  Core Framework
- Next.js 15** - The React framework for production with App Router
- TypeScript 5** - Type-safe JavaScript for better developer experience
- Tailwind CSS 4** - Utility-first CSS framework for rapid UI development
+ Next.js 15 - The React framework for production with App Router
+ TypeScript 5 - Type-safe JavaScript for better developer experience
+ Tailwind CSS 4 - Utility-first CSS framework for rapid UI development
 
  UI Components & Styling
-- shadcn/ui** - High-quality, accessible components built on Radix UI
--  Lucide React** - Beautiful & consistent icon library
--  Framer Motion** - Production-ready motion library for React
-- Next Themes** - Perfect dark mode in 2 lines of code
+- shadcn/ui - High-quality, accessible components built on Radix UI
+-  Lucide React- Beautiful & consistent icon library
+-  Framer Motion - Production-ready motion library for React
+- Next Themes - Perfect dark mode in 2 lines of code
 
 ### 📋 Forms & Validation
 - **🎣 React Hook Form** - Performant forms with easy validation
