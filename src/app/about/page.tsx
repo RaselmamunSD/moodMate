@@ -141,7 +141,7 @@ export default function AboutPage() {
                 image: "/images/RaselMamun.jpg" 
               },
               {
-                name: "Suvo Chakma",
+                name: "Shuvo Chakma",
                 role: "CTO",
                 expertise: "AI & Machine Learning",
                 image: "/images/suvo.jpg"
@@ -153,7 +153,7 @@ export default function AboutPage() {
                 image: "/images/alom.jpg"
               },
               {
-                name: "Namdan Chakraborty",
+                name: "Nandan Chakraborty",
                 role: "Frontend Developer",
                 expertise: "Healthcare Management",
                 image: "/images/nadon.jpg"
